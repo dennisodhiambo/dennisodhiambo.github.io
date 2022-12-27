@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "d23ed5b5",
+   "id": "53414ae3",
    "metadata": {
     "papermill": {
-     "duration": 0.009588,
-     "end_time": "2022-12-27T18:25:13.379025",
+     "duration": 0.009584,
+     "end_time": "2022-12-27T22:31:08.715911",
      "exception": false,
-     "start_time": "2022-12-27T18:25:13.369437",
+     "start_time": "2022-12-27T22:31:08.706327",
      "status": "completed"
     },
     "tags": []
@@ -16,18 +16,20 @@
    "source": [
     "# **Background:**\n",
     "\n",
+    "Offensive linemen are often derided for their lack of athleticism, but they play one of the most crucial roles in football. Lovingly called \"Meat and potato boys\" by Stephen A. Smith for their sturdiness and their strength, these men provide protection for some of our favorite players in almost every play.\n",
+    "Passing is probably the most important and simplest play in football. However, for quarterbacks to consistently make pass plays, they require offensive linemen to provide them with protection. \n",
     "Pass blocking is one of the most important roles in football. Without it, we wouldn't see players like Tom Brady, Aaron Rodgers, Patrick Mahomes and Josh Allen shine on the football field every Sunday. If a team’s offensive philosophy was to throw screens and quick slants every pass play, then it would make life for the offensive linemen relatively easy as there wouldn't be enough time for defenses to pressure. On the other hand, if the quarterback decided to hold onto the ball for four seconds every play, then even the best offensive linemen would allow pressure on a somewhat consistent basis."
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "408af149",
+   "id": "6202b128",
    "metadata": {
     "papermill": {
-     "duration": 0.008263,
-     "end_time": "2022-12-27T18:25:13.396303",
+     "duration": 0.008773,
+     "end_time": "2022-12-27T22:31:08.733706",
      "exception": false,
-     "start_time": "2022-12-27T18:25:13.388040",
+     "start_time": "2022-12-27T22:31:08.724933",
      "status": "completed"
     },
     "tags": []
@@ -40,19 +42,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "81d6bd60",
+   "id": "9cc37fff",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:25:13.416982Z",
-     "iopub.status.busy": "2022-12-27T18:25:13.414572Z",
-     "iopub.status.idle": "2022-12-27T18:25:15.108957Z",
-     "shell.execute_reply": "2022-12-27T18:25:15.106464Z"
+     "iopub.execute_input": "2022-12-27T22:31:08.755238Z",
+     "iopub.status.busy": "2022-12-27T22:31:08.753105Z",
+     "iopub.status.idle": "2022-12-27T22:31:10.502312Z",
+     "shell.execute_reply": "2022-12-27T22:31:10.500468Z"
     },
     "papermill": {
-     "duration": 1.708322,
-     "end_time": "2022-12-27T18:25:15.112581",
+     "duration": 1.762557,
+     "end_time": "2022-12-27T22:31:10.505126",
      "exception": false,
-     "start_time": "2022-12-27T18:25:13.404259",
+     "start_time": "2022-12-27T22:31:08.742569",
      "status": "completed"
     },
     "tags": []
@@ -101,13 +103,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "41c9d0a8",
+   "id": "99f1348f",
    "metadata": {
     "papermill": {
-     "duration": 0.00871,
-     "end_time": "2022-12-27T18:25:15.130044",
+     "duration": 0.008937,
+     "end_time": "2022-12-27T22:31:10.523283",
      "exception": false,
-     "start_time": "2022-12-27T18:25:15.121334",
+     "start_time": "2022-12-27T22:31:10.514346",
      "status": "completed"
     },
     "tags": []
@@ -120,19 +122,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "cbe0f8fe",
+   "id": "9276167a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:25:15.180465Z",
-     "iopub.status.busy": "2022-12-27T18:25:15.149874Z",
-     "iopub.status.idle": "2022-12-27T18:26:23.968283Z",
-     "shell.execute_reply": "2022-12-27T18:26:23.966427Z"
+     "iopub.execute_input": "2022-12-27T22:31:10.577884Z",
+     "iopub.status.busy": "2022-12-27T22:31:10.543985Z",
+     "iopub.status.idle": "2022-12-27T22:32:20.571268Z",
+     "shell.execute_reply": "2022-12-27T22:32:20.569174Z"
     },
     "papermill": {
-     "duration": 68.83172,
-     "end_time": "2022-12-27T18:26:23.970833",
+     "duration": 70.04252,
+     "end_time": "2022-12-27T22:32:20.575018",
      "exception": false,
-     "start_time": "2022-12-27T18:25:15.139113",
+     "start_time": "2022-12-27T22:31:10.532498",
      "status": "completed"
     },
     "tags": []
@@ -155,13 +157,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2da76c79",
+   "id": "605067b8",
    "metadata": {
     "papermill": {
-     "duration": 0.009156,
-     "end_time": "2022-12-27T18:26:23.989190",
+     "duration": 0.009253,
+     "end_time": "2022-12-27T22:32:20.594817",
      "exception": false,
-     "start_time": "2022-12-27T18:26:23.980034",
+     "start_time": "2022-12-27T22:32:20.585564",
      "status": "completed"
     },
     "tags": []
@@ -173,13 +175,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "1ceaa341",
+   "id": "5e326219",
    "metadata": {
     "papermill": {
-     "duration": 0.008608,
-     "end_time": "2022-12-27T18:26:24.006117",
+     "duration": 0.008793,
+     "end_time": "2022-12-27T22:32:20.612330",
      "exception": false,
-     "start_time": "2022-12-27T18:26:23.997509",
+     "start_time": "2022-12-27T22:32:20.603537",
      "status": "completed"
     },
     "tags": []
@@ -191,19 +193,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "1cf0fbc0",
+   "id": "6a3c3687",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:24.026819Z",
-     "iopub.status.busy": "2022-12-27T18:26:24.025240Z",
-     "iopub.status.idle": "2022-12-27T18:26:24.210304Z",
-     "shell.execute_reply": "2022-12-27T18:26:24.208403Z"
+     "iopub.execute_input": "2022-12-27T22:32:20.633922Z",
+     "iopub.status.busy": "2022-12-27T22:32:20.632243Z",
+     "iopub.status.idle": "2022-12-27T22:32:20.761898Z",
+     "shell.execute_reply": "2022-12-27T22:32:20.760083Z"
     },
     "papermill": {
-     "duration": 0.198815,
-     "end_time": "2022-12-27T18:26:24.213170",
+     "duration": 0.14339,
+     "end_time": "2022-12-27T22:32:20.764509",
      "exception": false,
-     "start_time": "2022-12-27T18:26:24.014355",
+     "start_time": "2022-12-27T22:32:20.621119",
      "status": "completed"
     },
     "tags": []
@@ -227,339 +229,64 @@
      "data": {
       "text/html": [
        "<table class=\"dataframe\">\n",
-       "<caption>A data.frame: 122 × 7</caption>\n",
+       "<caption>A data.frame: 6 × 7</caption>\n",
        "<thead>\n",
-       "\t<tr><th scope=col>game_id</th><th scope=col>season</th><th scope=col>week</th><th scope=col>game_date</th><th scope=col>game_time_eastern</th><th scope=col>home_team_abbr</th><th scope=col>visitor_team_abbr</th></tr>\n",
-       "\t<tr><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;date&gt;</th><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;chr&gt;</th></tr>\n",
+       "\t<tr><th></th><th scope=col>game_id</th><th scope=col>season</th><th scope=col>week</th><th scope=col>game_date</th><th scope=col>game_time_eastern</th><th scope=col>home_team_abbr</th><th scope=col>visitor_team_abbr</th></tr>\n",
+       "\t<tr><th></th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;date&gt;</th><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;chr&gt;</th></tr>\n",
        "</thead>\n",
        "<tbody>\n",
-       "\t<tr><td>2021090900</td><td>2021</td><td>1</td><td>2021-09-09</td><td>20:20:00</td><td>TB </td><td>DAL</td></tr>\n",
-       "\t<tr><td>2021091200</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>ATL</td><td>PHI</td></tr>\n",
-       "\t<tr><td>2021091201</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>BUF</td><td>PIT</td></tr>\n",
-       "\t<tr><td>2021091202</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>CAR</td><td>NYJ</td></tr>\n",
-       "\t<tr><td>2021091203</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>CIN</td><td>MIN</td></tr>\n",
-       "\t<tr><td>2021091204</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>DET</td><td>SF </td></tr>\n",
-       "\t<tr><td>2021091205</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>HOU</td><td>JAX</td></tr>\n",
-       "\t<tr><td>2021091206</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>IND</td><td>SEA</td></tr>\n",
-       "\t<tr><td>2021091207</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>TEN</td><td>ARI</td></tr>\n",
-       "\t<tr><td>2021091208</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>WAS</td><td>LAC</td></tr>\n",
-       "\t<tr><td>2021091209</td><td>2021</td><td>1</td><td>2021-09-12</td><td>16:25:00</td><td>KC </td><td>CLE</td></tr>\n",
-       "\t<tr><td>2021091210</td><td>2021</td><td>1</td><td>2021-09-12</td><td>16:25:00</td><td>NE </td><td>MIA</td></tr>\n",
-       "\t<tr><td>2021091211</td><td>2021</td><td>1</td><td>2021-09-12</td><td>16:25:00</td><td>NO </td><td>GB </td></tr>\n",
-       "\t<tr><td>2021091212</td><td>2021</td><td>1</td><td>2021-09-12</td><td>16:25:00</td><td>NYG</td><td>DEN</td></tr>\n",
-       "\t<tr><td>2021091213</td><td>2021</td><td>1</td><td>2021-09-12</td><td>20:20:00</td><td>LA </td><td>CHI</td></tr>\n",
-       "\t<tr><td>2021091300</td><td>2021</td><td>1</td><td>2021-09-13</td><td>20:15:00</td><td>LV </td><td>BAL</td></tr>\n",
-       "\t<tr><td>2021091600</td><td>2021</td><td>2</td><td>2021-09-16</td><td>20:20:00</td><td>WAS</td><td>NYG</td></tr>\n",
-       "\t<tr><td>2021091900</td><td>2021</td><td>2</td><td>2021-09-19</td><td>13:00:00</td><td>CAR</td><td>NO </td></tr>\n",
-       "\t<tr><td>2021091901</td><td>2021</td><td>2</td><td>2021-09-19</td><td>13:00:00</td><td>CHI</td><td>CIN</td></tr>\n",
-       "\t<tr><td>2021091902</td><td>2021</td><td>2</td><td>2021-09-19</td><td>13:00:00</td><td>CLE</td><td>HOU</td></tr>\n",
-       "\t<tr><td>2021091903</td><td>2021</td><td>2</td><td>2021-09-19</td><td>13:00:00</td><td>IND</td><td>LA </td></tr>\n",
-       "\t<tr><td>2021091904</td><td>2021</td><td>2</td><td>2021-09-19</td><td>13:00:00</td><td>JAX</td><td>DEN</td></tr>\n",
-       "\t<tr><td>2021091905</td><td>2021</td><td>2</td><td>2021-09-19</td><td>13:00:00</td><td>MIA</td><td>BUF</td></tr>\n",
-       "\t<tr><td>2021091906</td><td>2021</td><td>2</td><td>2021-09-19</td><td>13:00:00</td><td>NYJ</td><td>NE </td></tr>\n",
-       "\t<tr><td>2021091907</td><td>2021</td><td>2</td><td>2021-09-19</td><td>13:00:00</td><td>PHI</td><td>SF </td></tr>\n",
-       "\t<tr><td>2021091908</td><td>2021</td><td>2</td><td>2021-09-19</td><td>13:00:00</td><td>PIT</td><td>LV </td></tr>\n",
-       "\t<tr><td>2021091909</td><td>2021</td><td>2</td><td>2021-09-19</td><td>16:05:00</td><td>ARI</td><td>MIN</td></tr>\n",
-       "\t<tr><td>2021091910</td><td>2021</td><td>2</td><td>2021-09-19</td><td>16:05:00</td><td>TB </td><td>ATL</td></tr>\n",
-       "\t<tr><td>2021091911</td><td>2021</td><td>2</td><td>2021-09-19</td><td>16:25:00</td><td>LAC</td><td>DAL</td></tr>\n",
-       "\t<tr><td>2021091912</td><td>2021</td><td>2</td><td>2021-09-19</td><td>16:25:00</td><td>SEA</td><td>TEN</td></tr>\n",
-       "\t<tr><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td></tr>\n",
-       "\t<tr><td>2021101711</td><td>2021</td><td>6</td><td>2021-10-17</td><td>20:20:00</td><td>PIT</td><td>SEA</td></tr>\n",
-       "\t<tr><td>2021101800</td><td>2021</td><td>6</td><td>2021-10-18</td><td>20:15:00</td><td>TEN</td><td>BUF</td></tr>\n",
-       "\t<tr><td>2021102100</td><td>2021</td><td>7</td><td>2021-10-21</td><td>20:20:00</td><td>CLE</td><td>DEN</td></tr>\n",
-       "\t<tr><td>2021102400</td><td>2021</td><td>7</td><td>2021-10-24</td><td>13:00:00</td><td>BAL</td><td>CIN</td></tr>\n",
-       "\t<tr><td>2021102401</td><td>2021</td><td>7</td><td>2021-10-24</td><td>13:00:00</td><td>GB </td><td>WAS</td></tr>\n",
-       "\t<tr><td>2021102402</td><td>2021</td><td>7</td><td>2021-10-24</td><td>13:00:00</td><td>MIA</td><td>ATL</td></tr>\n",
-       "\t<tr><td>2021102403</td><td>2021</td><td>7</td><td>2021-10-24</td><td>13:00:00</td><td>NE </td><td>NYJ</td></tr>\n",
-       "\t<tr><td>2021102404</td><td>2021</td><td>7</td><td>2021-10-24</td><td>13:00:00</td><td>NYG</td><td>CAR</td></tr>\n",
-       "\t<tr><td>2021102405</td><td>2021</td><td>7</td><td>2021-10-24</td><td>13:00:00</td><td>TEN</td><td>KC </td></tr>\n",
-       "\t<tr><td>2021102406</td><td>2021</td><td>7</td><td>2021-10-24</td><td>16:05:00</td><td>LA </td><td>DET</td></tr>\n",
-       "\t<tr><td>2021102407</td><td>2021</td><td>7</td><td>2021-10-24</td><td>16:05:00</td><td>LV </td><td>PHI</td></tr>\n",
-       "\t<tr><td>2021102408</td><td>2021</td><td>7</td><td>2021-10-24</td><td>16:25:00</td><td>ARI</td><td>HOU</td></tr>\n",
-       "\t<tr><td>2021102409</td><td>2021</td><td>7</td><td>2021-10-24</td><td>16:25:00</td><td>TB </td><td>CHI</td></tr>\n",
-       "\t<tr><td>2021102410</td><td>2021</td><td>7</td><td>2021-10-24</td><td>20:20:00</td><td>SF </td><td>IND</td></tr>\n",
-       "\t<tr><td>2021102500</td><td>2021</td><td>7</td><td>2021-10-25</td><td>20:15:00</td><td>SEA</td><td>NO </td></tr>\n",
-       "\t<tr><td>2021102800</td><td>2021</td><td>8</td><td>2021-10-28</td><td>20:20:00</td><td>ARI</td><td>GB </td></tr>\n",
-       "\t<tr><td>2021103100</td><td>2021</td><td>8</td><td>2021-10-31</td><td>13:00:00</td><td>ATL</td><td>CAR</td></tr>\n",
-       "\t<tr><td>2021103101</td><td>2021</td><td>8</td><td>2021-10-31</td><td>13:00:00</td><td>BUF</td><td>MIA</td></tr>\n",
-       "\t<tr><td>2021103102</td><td>2021</td><td>8</td><td>2021-10-31</td><td>13:00:00</td><td>CHI</td><td>SF </td></tr>\n",
-       "\t<tr><td>2021103103</td><td>2021</td><td>8</td><td>2021-10-31</td><td>13:00:00</td><td>CLE</td><td>PIT</td></tr>\n",
-       "\t<tr><td>2021103104</td><td>2021</td><td>8</td><td>2021-10-31</td><td>13:00:00</td><td>DET</td><td>PHI</td></tr>\n",
-       "\t<tr><td>2021103105</td><td>2021</td><td>8</td><td>2021-10-31</td><td>13:00:00</td><td>HOU</td><td>LA </td></tr>\n",
-       "\t<tr><td>2021103106</td><td>2021</td><td>8</td><td>2021-10-31</td><td>13:00:00</td><td>IND</td><td>TEN</td></tr>\n",
-       "\t<tr><td>2021103107</td><td>2021</td><td>8</td><td>2021-10-31</td><td>13:00:00</td><td>NYJ</td><td>CIN</td></tr>\n",
-       "\t<tr><td>2021103108</td><td>2021</td><td>8</td><td>2021-10-31</td><td>16:05:00</td><td>LAC</td><td>NE </td></tr>\n",
-       "\t<tr><td>2021103109</td><td>2021</td><td>8</td><td>2021-10-31</td><td>16:05:00</td><td>SEA</td><td>JAX</td></tr>\n",
-       "\t<tr><td>2021103110</td><td>2021</td><td>8</td><td>2021-10-31</td><td>16:25:00</td><td>DEN</td><td>WAS</td></tr>\n",
-       "\t<tr><td>2021103111</td><td>2021</td><td>8</td><td>2021-10-31</td><td>16:25:00</td><td>NO </td><td>TB </td></tr>\n",
-       "\t<tr><td>2021103112</td><td>2021</td><td>8</td><td>2021-10-31</td><td>20:20:00</td><td>MIN</td><td>DAL</td></tr>\n",
-       "\t<tr><td>2021110100</td><td>2021</td><td>8</td><td>2021-11-01</td><td>20:15:00</td><td>KC </td><td>NYG</td></tr>\n",
+       "\t<tr><th scope=row>1</th><td>2021090900</td><td>2021</td><td>1</td><td>2021-09-09</td><td>20:20:00</td><td>TB </td><td>DAL</td></tr>\n",
+       "\t<tr><th scope=row>2</th><td>2021091200</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>ATL</td><td>PHI</td></tr>\n",
+       "\t<tr><th scope=row>3</th><td>2021091201</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>BUF</td><td>PIT</td></tr>\n",
+       "\t<tr><th scope=row>4</th><td>2021091202</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>CAR</td><td>NYJ</td></tr>\n",
+       "\t<tr><th scope=row>5</th><td>2021091203</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>CIN</td><td>MIN</td></tr>\n",
+       "\t<tr><th scope=row>6</th><td>2021091204</td><td>2021</td><td>1</td><td>2021-09-12</td><td>13:00:00</td><td>DET</td><td>SF </td></tr>\n",
        "</tbody>\n",
        "</table>\n"
       ],
       "text/latex": [
-       "A data.frame: 122 × 7\n",
-       "\\begin{tabular}{lllllll}\n",
-       " game\\_id & season & week & game\\_date & game\\_time\\_eastern & home\\_team\\_abbr & visitor\\_team\\_abbr\\\\\n",
-       " <int> & <int> & <int> & <date> & <chr> & <chr> & <chr>\\\\\n",
+       "A data.frame: 6 × 7\n",
+       "\\begin{tabular}{r|lllllll}\n",
+       "  & game\\_id & season & week & game\\_date & game\\_time\\_eastern & home\\_team\\_abbr & visitor\\_team\\_abbr\\\\\n",
+       "  & <int> & <int> & <int> & <date> & <chr> & <chr> & <chr>\\\\\n",
        "\\hline\n",
-       "\t 2021090900 & 2021 & 1 & 2021-09-09 & 20:20:00 & TB  & DAL\\\\\n",
-       "\t 2021091200 & 2021 & 1 & 2021-09-12 & 13:00:00 & ATL & PHI\\\\\n",
-       "\t 2021091201 & 2021 & 1 & 2021-09-12 & 13:00:00 & BUF & PIT\\\\\n",
-       "\t 2021091202 & 2021 & 1 & 2021-09-12 & 13:00:00 & CAR & NYJ\\\\\n",
-       "\t 2021091203 & 2021 & 1 & 2021-09-12 & 13:00:00 & CIN & MIN\\\\\n",
-       "\t 2021091204 & 2021 & 1 & 2021-09-12 & 13:00:00 & DET & SF \\\\\n",
-       "\t 2021091205 & 2021 & 1 & 2021-09-12 & 13:00:00 & HOU & JAX\\\\\n",
-       "\t 2021091206 & 2021 & 1 & 2021-09-12 & 13:00:00 & IND & SEA\\\\\n",
-       "\t 2021091207 & 2021 & 1 & 2021-09-12 & 13:00:00 & TEN & ARI\\\\\n",
-       "\t 2021091208 & 2021 & 1 & 2021-09-12 & 13:00:00 & WAS & LAC\\\\\n",
-       "\t 2021091209 & 2021 & 1 & 2021-09-12 & 16:25:00 & KC  & CLE\\\\\n",
-       "\t 2021091210 & 2021 & 1 & 2021-09-12 & 16:25:00 & NE  & MIA\\\\\n",
-       "\t 2021091211 & 2021 & 1 & 2021-09-12 & 16:25:00 & NO  & GB \\\\\n",
-       "\t 2021091212 & 2021 & 1 & 2021-09-12 & 16:25:00 & NYG & DEN\\\\\n",
-       "\t 2021091213 & 2021 & 1 & 2021-09-12 & 20:20:00 & LA  & CHI\\\\\n",
-       "\t 2021091300 & 2021 & 1 & 2021-09-13 & 20:15:00 & LV  & BAL\\\\\n",
-       "\t 2021091600 & 2021 & 2 & 2021-09-16 & 20:20:00 & WAS & NYG\\\\\n",
-       "\t 2021091900 & 2021 & 2 & 2021-09-19 & 13:00:00 & CAR & NO \\\\\n",
-       "\t 2021091901 & 2021 & 2 & 2021-09-19 & 13:00:00 & CHI & CIN\\\\\n",
-       "\t 2021091902 & 2021 & 2 & 2021-09-19 & 13:00:00 & CLE & HOU\\\\\n",
-       "\t 2021091903 & 2021 & 2 & 2021-09-19 & 13:00:00 & IND & LA \\\\\n",
-       "\t 2021091904 & 2021 & 2 & 2021-09-19 & 13:00:00 & JAX & DEN\\\\\n",
-       "\t 2021091905 & 2021 & 2 & 2021-09-19 & 13:00:00 & MIA & BUF\\\\\n",
-       "\t 2021091906 & 2021 & 2 & 2021-09-19 & 13:00:00 & NYJ & NE \\\\\n",
-       "\t 2021091907 & 2021 & 2 & 2021-09-19 & 13:00:00 & PHI & SF \\\\\n",
-       "\t 2021091908 & 2021 & 2 & 2021-09-19 & 13:00:00 & PIT & LV \\\\\n",
-       "\t 2021091909 & 2021 & 2 & 2021-09-19 & 16:05:00 & ARI & MIN\\\\\n",
-       "\t 2021091910 & 2021 & 2 & 2021-09-19 & 16:05:00 & TB  & ATL\\\\\n",
-       "\t 2021091911 & 2021 & 2 & 2021-09-19 & 16:25:00 & LAC & DAL\\\\\n",
-       "\t 2021091912 & 2021 & 2 & 2021-09-19 & 16:25:00 & SEA & TEN\\\\\n",
-       "\t ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮\\\\\n",
-       "\t 2021101711 & 2021 & 6 & 2021-10-17 & 20:20:00 & PIT & SEA\\\\\n",
-       "\t 2021101800 & 2021 & 6 & 2021-10-18 & 20:15:00 & TEN & BUF\\\\\n",
-       "\t 2021102100 & 2021 & 7 & 2021-10-21 & 20:20:00 & CLE & DEN\\\\\n",
-       "\t 2021102400 & 2021 & 7 & 2021-10-24 & 13:00:00 & BAL & CIN\\\\\n",
-       "\t 2021102401 & 2021 & 7 & 2021-10-24 & 13:00:00 & GB  & WAS\\\\\n",
-       "\t 2021102402 & 2021 & 7 & 2021-10-24 & 13:00:00 & MIA & ATL\\\\\n",
-       "\t 2021102403 & 2021 & 7 & 2021-10-24 & 13:00:00 & NE  & NYJ\\\\\n",
-       "\t 2021102404 & 2021 & 7 & 2021-10-24 & 13:00:00 & NYG & CAR\\\\\n",
-       "\t 2021102405 & 2021 & 7 & 2021-10-24 & 13:00:00 & TEN & KC \\\\\n",
-       "\t 2021102406 & 2021 & 7 & 2021-10-24 & 16:05:00 & LA  & DET\\\\\n",
-       "\t 2021102407 & 2021 & 7 & 2021-10-24 & 16:05:00 & LV  & PHI\\\\\n",
-       "\t 2021102408 & 2021 & 7 & 2021-10-24 & 16:25:00 & ARI & HOU\\\\\n",
-       "\t 2021102409 & 2021 & 7 & 2021-10-24 & 16:25:00 & TB  & CHI\\\\\n",
-       "\t 2021102410 & 2021 & 7 & 2021-10-24 & 20:20:00 & SF  & IND\\\\\n",
-       "\t 2021102500 & 2021 & 7 & 2021-10-25 & 20:15:00 & SEA & NO \\\\\n",
-       "\t 2021102800 & 2021 & 8 & 2021-10-28 & 20:20:00 & ARI & GB \\\\\n",
-       "\t 2021103100 & 2021 & 8 & 2021-10-31 & 13:00:00 & ATL & CAR\\\\\n",
-       "\t 2021103101 & 2021 & 8 & 2021-10-31 & 13:00:00 & BUF & MIA\\\\\n",
-       "\t 2021103102 & 2021 & 8 & 2021-10-31 & 13:00:00 & CHI & SF \\\\\n",
-       "\t 2021103103 & 2021 & 8 & 2021-10-31 & 13:00:00 & CLE & PIT\\\\\n",
-       "\t 2021103104 & 2021 & 8 & 2021-10-31 & 13:00:00 & DET & PHI\\\\\n",
-       "\t 2021103105 & 2021 & 8 & 2021-10-31 & 13:00:00 & HOU & LA \\\\\n",
-       "\t 2021103106 & 2021 & 8 & 2021-10-31 & 13:00:00 & IND & TEN\\\\\n",
-       "\t 2021103107 & 2021 & 8 & 2021-10-31 & 13:00:00 & NYJ & CIN\\\\\n",
-       "\t 2021103108 & 2021 & 8 & 2021-10-31 & 16:05:00 & LAC & NE \\\\\n",
-       "\t 2021103109 & 2021 & 8 & 2021-10-31 & 16:05:00 & SEA & JAX\\\\\n",
-       "\t 2021103110 & 2021 & 8 & 2021-10-31 & 16:25:00 & DEN & WAS\\\\\n",
-       "\t 2021103111 & 2021 & 8 & 2021-10-31 & 16:25:00 & NO  & TB \\\\\n",
-       "\t 2021103112 & 2021 & 8 & 2021-10-31 & 20:20:00 & MIN & DAL\\\\\n",
-       "\t 2021110100 & 2021 & 8 & 2021-11-01 & 20:15:00 & KC  & NYG\\\\\n",
+       "\t1 & 2021090900 & 2021 & 1 & 2021-09-09 & 20:20:00 & TB  & DAL\\\\\n",
+       "\t2 & 2021091200 & 2021 & 1 & 2021-09-12 & 13:00:00 & ATL & PHI\\\\\n",
+       "\t3 & 2021091201 & 2021 & 1 & 2021-09-12 & 13:00:00 & BUF & PIT\\\\\n",
+       "\t4 & 2021091202 & 2021 & 1 & 2021-09-12 & 13:00:00 & CAR & NYJ\\\\\n",
+       "\t5 & 2021091203 & 2021 & 1 & 2021-09-12 & 13:00:00 & CIN & MIN\\\\\n",
+       "\t6 & 2021091204 & 2021 & 1 & 2021-09-12 & 13:00:00 & DET & SF \\\\\n",
        "\\end{tabular}\n"
       ],
       "text/markdown": [
        "\n",
-       "A data.frame: 122 × 7\n",
+       "A data.frame: 6 × 7\n",
        "\n",
-       "| game_id &lt;int&gt; | season &lt;int&gt; | week &lt;int&gt; | game_date &lt;date&gt; | game_time_eastern &lt;chr&gt; | home_team_abbr &lt;chr&gt; | visitor_team_abbr &lt;chr&gt; |\n",
-       "|---|---|---|---|---|---|---|\n",
-       "| 2021090900 | 2021 | 1 | 2021-09-09 | 20:20:00 | TB  | DAL |\n",
-       "| 2021091200 | 2021 | 1 | 2021-09-12 | 13:00:00 | ATL | PHI |\n",
-       "| 2021091201 | 2021 | 1 | 2021-09-12 | 13:00:00 | BUF | PIT |\n",
-       "| 2021091202 | 2021 | 1 | 2021-09-12 | 13:00:00 | CAR | NYJ |\n",
-       "| 2021091203 | 2021 | 1 | 2021-09-12 | 13:00:00 | CIN | MIN |\n",
-       "| 2021091204 | 2021 | 1 | 2021-09-12 | 13:00:00 | DET | SF  |\n",
-       "| 2021091205 | 2021 | 1 | 2021-09-12 | 13:00:00 | HOU | JAX |\n",
-       "| 2021091206 | 2021 | 1 | 2021-09-12 | 13:00:00 | IND | SEA |\n",
-       "| 2021091207 | 2021 | 1 | 2021-09-12 | 13:00:00 | TEN | ARI |\n",
-       "| 2021091208 | 2021 | 1 | 2021-09-12 | 13:00:00 | WAS | LAC |\n",
-       "| 2021091209 | 2021 | 1 | 2021-09-12 | 16:25:00 | KC  | CLE |\n",
-       "| 2021091210 | 2021 | 1 | 2021-09-12 | 16:25:00 | NE  | MIA |\n",
-       "| 2021091211 | 2021 | 1 | 2021-09-12 | 16:25:00 | NO  | GB  |\n",
-       "| 2021091212 | 2021 | 1 | 2021-09-12 | 16:25:00 | NYG | DEN |\n",
-       "| 2021091213 | 2021 | 1 | 2021-09-12 | 20:20:00 | LA  | CHI |\n",
-       "| 2021091300 | 2021 | 1 | 2021-09-13 | 20:15:00 | LV  | BAL |\n",
-       "| 2021091600 | 2021 | 2 | 2021-09-16 | 20:20:00 | WAS | NYG |\n",
-       "| 2021091900 | 2021 | 2 | 2021-09-19 | 13:00:00 | CAR | NO  |\n",
-       "| 2021091901 | 2021 | 2 | 2021-09-19 | 13:00:00 | CHI | CIN |\n",
-       "| 2021091902 | 2021 | 2 | 2021-09-19 | 13:00:00 | CLE | HOU |\n",
-       "| 2021091903 | 2021 | 2 | 2021-09-19 | 13:00:00 | IND | LA  |\n",
-       "| 2021091904 | 2021 | 2 | 2021-09-19 | 13:00:00 | JAX | DEN |\n",
-       "| 2021091905 | 2021 | 2 | 2021-09-19 | 13:00:00 | MIA | BUF |\n",
-       "| 2021091906 | 2021 | 2 | 2021-09-19 | 13:00:00 | NYJ | NE  |\n",
-       "| 2021091907 | 2021 | 2 | 2021-09-19 | 13:00:00 | PHI | SF  |\n",
-       "| 2021091908 | 2021 | 2 | 2021-09-19 | 13:00:00 | PIT | LV  |\n",
-       "| 2021091909 | 2021 | 2 | 2021-09-19 | 16:05:00 | ARI | MIN |\n",
-       "| 2021091910 | 2021 | 2 | 2021-09-19 | 16:05:00 | TB  | ATL |\n",
-       "| 2021091911 | 2021 | 2 | 2021-09-19 | 16:25:00 | LAC | DAL |\n",
-       "| 2021091912 | 2021 | 2 | 2021-09-19 | 16:25:00 | SEA | TEN |\n",
-       "| ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ |\n",
-       "| 2021101711 | 2021 | 6 | 2021-10-17 | 20:20:00 | PIT | SEA |\n",
-       "| 2021101800 | 2021 | 6 | 2021-10-18 | 20:15:00 | TEN | BUF |\n",
-       "| 2021102100 | 2021 | 7 | 2021-10-21 | 20:20:00 | CLE | DEN |\n",
-       "| 2021102400 | 2021 | 7 | 2021-10-24 | 13:00:00 | BAL | CIN |\n",
-       "| 2021102401 | 2021 | 7 | 2021-10-24 | 13:00:00 | GB  | WAS |\n",
-       "| 2021102402 | 2021 | 7 | 2021-10-24 | 13:00:00 | MIA | ATL |\n",
-       "| 2021102403 | 2021 | 7 | 2021-10-24 | 13:00:00 | NE  | NYJ |\n",
-       "| 2021102404 | 2021 | 7 | 2021-10-24 | 13:00:00 | NYG | CAR |\n",
-       "| 2021102405 | 2021 | 7 | 2021-10-24 | 13:00:00 | TEN | KC  |\n",
-       "| 2021102406 | 2021 | 7 | 2021-10-24 | 16:05:00 | LA  | DET |\n",
-       "| 2021102407 | 2021 | 7 | 2021-10-24 | 16:05:00 | LV  | PHI |\n",
-       "| 2021102408 | 2021 | 7 | 2021-10-24 | 16:25:00 | ARI | HOU |\n",
-       "| 2021102409 | 2021 | 7 | 2021-10-24 | 16:25:00 | TB  | CHI |\n",
-       "| 2021102410 | 2021 | 7 | 2021-10-24 | 20:20:00 | SF  | IND |\n",
-       "| 2021102500 | 2021 | 7 | 2021-10-25 | 20:15:00 | SEA | NO  |\n",
-       "| 2021102800 | 2021 | 8 | 2021-10-28 | 20:20:00 | ARI | GB  |\n",
-       "| 2021103100 | 2021 | 8 | 2021-10-31 | 13:00:00 | ATL | CAR |\n",
-       "| 2021103101 | 2021 | 8 | 2021-10-31 | 13:00:00 | BUF | MIA |\n",
-       "| 2021103102 | 2021 | 8 | 2021-10-31 | 13:00:00 | CHI | SF  |\n",
-       "| 2021103103 | 2021 | 8 | 2021-10-31 | 13:00:00 | CLE | PIT |\n",
-       "| 2021103104 | 2021 | 8 | 2021-10-31 | 13:00:00 | DET | PHI |\n",
-       "| 2021103105 | 2021 | 8 | 2021-10-31 | 13:00:00 | HOU | LA  |\n",
-       "| 2021103106 | 2021 | 8 | 2021-10-31 | 13:00:00 | IND | TEN |\n",
-       "| 2021103107 | 2021 | 8 | 2021-10-31 | 13:00:00 | NYJ | CIN |\n",
-       "| 2021103108 | 2021 | 8 | 2021-10-31 | 16:05:00 | LAC | NE  |\n",
-       "| 2021103109 | 2021 | 8 | 2021-10-31 | 16:05:00 | SEA | JAX |\n",
-       "| 2021103110 | 2021 | 8 | 2021-10-31 | 16:25:00 | DEN | WAS |\n",
-       "| 2021103111 | 2021 | 8 | 2021-10-31 | 16:25:00 | NO  | TB  |\n",
-       "| 2021103112 | 2021 | 8 | 2021-10-31 | 20:20:00 | MIN | DAL |\n",
-       "| 2021110100 | 2021 | 8 | 2021-11-01 | 20:15:00 | KC  | NYG |\n",
+       "| <!--/--> | game_id &lt;int&gt; | season &lt;int&gt; | week &lt;int&gt; | game_date &lt;date&gt; | game_time_eastern &lt;chr&gt; | home_team_abbr &lt;chr&gt; | visitor_team_abbr &lt;chr&gt; |\n",
+       "|---|---|---|---|---|---|---|---|\n",
+       "| 1 | 2021090900 | 2021 | 1 | 2021-09-09 | 20:20:00 | TB  | DAL |\n",
+       "| 2 | 2021091200 | 2021 | 1 | 2021-09-12 | 13:00:00 | ATL | PHI |\n",
+       "| 3 | 2021091201 | 2021 | 1 | 2021-09-12 | 13:00:00 | BUF | PIT |\n",
+       "| 4 | 2021091202 | 2021 | 1 | 2021-09-12 | 13:00:00 | CAR | NYJ |\n",
+       "| 5 | 2021091203 | 2021 | 1 | 2021-09-12 | 13:00:00 | CIN | MIN |\n",
+       "| 6 | 2021091204 | 2021 | 1 | 2021-09-12 | 13:00:00 | DET | SF  |\n",
        "\n"
       ],
       "text/plain": [
-       "    game_id    season week game_date  game_time_eastern home_team_abbr\n",
-       "1   2021090900 2021   1    2021-09-09 20:20:00          TB            \n",
-       "2   2021091200 2021   1    2021-09-12 13:00:00          ATL           \n",
-       "3   2021091201 2021   1    2021-09-12 13:00:00          BUF           \n",
-       "4   2021091202 2021   1    2021-09-12 13:00:00          CAR           \n",
-       "5   2021091203 2021   1    2021-09-12 13:00:00          CIN           \n",
-       "6   2021091204 2021   1    2021-09-12 13:00:00          DET           \n",
-       "7   2021091205 2021   1    2021-09-12 13:00:00          HOU           \n",
-       "8   2021091206 2021   1    2021-09-12 13:00:00          IND           \n",
-       "9   2021091207 2021   1    2021-09-12 13:00:00          TEN           \n",
-       "10  2021091208 2021   1    2021-09-12 13:00:00          WAS           \n",
-       "11  2021091209 2021   1    2021-09-12 16:25:00          KC            \n",
-       "12  2021091210 2021   1    2021-09-12 16:25:00          NE            \n",
-       "13  2021091211 2021   1    2021-09-12 16:25:00          NO            \n",
-       "14  2021091212 2021   1    2021-09-12 16:25:00          NYG           \n",
-       "15  2021091213 2021   1    2021-09-12 20:20:00          LA            \n",
-       "16  2021091300 2021   1    2021-09-13 20:15:00          LV            \n",
-       "17  2021091600 2021   2    2021-09-16 20:20:00          WAS           \n",
-       "18  2021091900 2021   2    2021-09-19 13:00:00          CAR           \n",
-       "19  2021091901 2021   2    2021-09-19 13:00:00          CHI           \n",
-       "20  2021091902 2021   2    2021-09-19 13:00:00          CLE           \n",
-       "21  2021091903 2021   2    2021-09-19 13:00:00          IND           \n",
-       "22  2021091904 2021   2    2021-09-19 13:00:00          JAX           \n",
-       "23  2021091905 2021   2    2021-09-19 13:00:00          MIA           \n",
-       "24  2021091906 2021   2    2021-09-19 13:00:00          NYJ           \n",
-       "25  2021091907 2021   2    2021-09-19 13:00:00          PHI           \n",
-       "26  2021091908 2021   2    2021-09-19 13:00:00          PIT           \n",
-       "27  2021091909 2021   2    2021-09-19 16:05:00          ARI           \n",
-       "28  2021091910 2021   2    2021-09-19 16:05:00          TB            \n",
-       "29  2021091911 2021   2    2021-09-19 16:25:00          LAC           \n",
-       "30  2021091912 2021   2    2021-09-19 16:25:00          SEA           \n",
-       "⋮   ⋮          ⋮      ⋮    ⋮          ⋮                 ⋮             \n",
-       "93  2021101711 2021   6    2021-10-17 20:20:00          PIT           \n",
-       "94  2021101800 2021   6    2021-10-18 20:15:00          TEN           \n",
-       "95  2021102100 2021   7    2021-10-21 20:20:00          CLE           \n",
-       "96  2021102400 2021   7    2021-10-24 13:00:00          BAL           \n",
-       "97  2021102401 2021   7    2021-10-24 13:00:00          GB            \n",
-       "98  2021102402 2021   7    2021-10-24 13:00:00          MIA           \n",
-       "99  2021102403 2021   7    2021-10-24 13:00:00          NE            \n",
-       "100 2021102404 2021   7    2021-10-24 13:00:00          NYG           \n",
-       "101 2021102405 2021   7    2021-10-24 13:00:00          TEN           \n",
-       "102 2021102406 2021   7    2021-10-24 16:05:00          LA            \n",
-       "103 2021102407 2021   7    2021-10-24 16:05:00          LV            \n",
-       "104 2021102408 2021   7    2021-10-24 16:25:00          ARI           \n",
-       "105 2021102409 2021   7    2021-10-24 16:25:00          TB            \n",
-       "106 2021102410 2021   7    2021-10-24 20:20:00          SF            \n",
-       "107 2021102500 2021   7    2021-10-25 20:15:00          SEA           \n",
-       "108 2021102800 2021   8    2021-10-28 20:20:00          ARI           \n",
-       "109 2021103100 2021   8    2021-10-31 13:00:00          ATL           \n",
-       "110 2021103101 2021   8    2021-10-31 13:00:00          BUF           \n",
-       "111 2021103102 2021   8    2021-10-31 13:00:00          CHI           \n",
-       "112 2021103103 2021   8    2021-10-31 13:00:00          CLE           \n",
-       "113 2021103104 2021   8    2021-10-31 13:00:00          DET           \n",
-       "114 2021103105 2021   8    2021-10-31 13:00:00          HOU           \n",
-       "115 2021103106 2021   8    2021-10-31 13:00:00          IND           \n",
-       "116 2021103107 2021   8    2021-10-31 13:00:00          NYJ           \n",
-       "117 2021103108 2021   8    2021-10-31 16:05:00          LAC           \n",
-       "118 2021103109 2021   8    2021-10-31 16:05:00          SEA           \n",
-       "119 2021103110 2021   8    2021-10-31 16:25:00          DEN           \n",
-       "120 2021103111 2021   8    2021-10-31 16:25:00          NO            \n",
-       "121 2021103112 2021   8    2021-10-31 20:20:00          MIN           \n",
-       "122 2021110100 2021   8    2021-11-01 20:15:00          KC            \n",
-       "    visitor_team_abbr\n",
-       "1   DAL              \n",
-       "2   PHI              \n",
-       "3   PIT              \n",
-       "4   NYJ              \n",
-       "5   MIN              \n",
-       "6   SF               \n",
-       "7   JAX              \n",
-       "8   SEA              \n",
-       "9   ARI              \n",
-       "10  LAC              \n",
-       "11  CLE              \n",
-       "12  MIA              \n",
-       "13  GB               \n",
-       "14  DEN              \n",
-       "15  CHI              \n",
-       "16  BAL              \n",
-       "17  NYG              \n",
-       "18  NO               \n",
-       "19  CIN              \n",
-       "20  HOU              \n",
-       "21  LA               \n",
-       "22  DEN              \n",
-       "23  BUF              \n",
-       "24  NE               \n",
-       "25  SF               \n",
-       "26  LV               \n",
-       "27  MIN              \n",
-       "28  ATL              \n",
-       "29  DAL              \n",
-       "30  TEN              \n",
-       "⋮   ⋮                \n",
-       "93  SEA              \n",
-       "94  BUF              \n",
-       "95  DEN              \n",
-       "96  CIN              \n",
-       "97  WAS              \n",
-       "98  ATL              \n",
-       "99  NYJ              \n",
-       "100 CAR              \n",
-       "101 KC               \n",
-       "102 DET              \n",
-       "103 PHI              \n",
-       "104 HOU              \n",
-       "105 CHI              \n",
-       "106 IND              \n",
-       "107 NO               \n",
-       "108 GB               \n",
-       "109 CAR              \n",
-       "110 MIA              \n",
-       "111 SF               \n",
-       "112 PIT              \n",
-       "113 PHI              \n",
-       "114 LA               \n",
-       "115 TEN              \n",
-       "116 CIN              \n",
-       "117 NE               \n",
-       "118 JAX              \n",
-       "119 WAS              \n",
-       "120 TB               \n",
-       "121 DAL              \n",
-       "122 NYG              "
+       "  game_id    season week game_date  game_time_eastern home_team_abbr\n",
+       "1 2021090900 2021   1    2021-09-09 20:20:00          TB            \n",
+       "2 2021091200 2021   1    2021-09-12 13:00:00          ATL           \n",
+       "3 2021091201 2021   1    2021-09-12 13:00:00          BUF           \n",
+       "4 2021091202 2021   1    2021-09-12 13:00:00          CAR           \n",
+       "5 2021091203 2021   1    2021-09-12 13:00:00          CIN           \n",
+       "6 2021091204 2021   1    2021-09-12 13:00:00          DET           \n",
+       "  visitor_team_abbr\n",
+       "1 DAL              \n",
+       "2 PHI              \n",
+       "3 PIT              \n",
+       "4 NYJ              \n",
+       "5 MIN              \n",
+       "6 SF               "
       ]
      },
      "metadata": {},
@@ -570,18 +297,18 @@
     "str(games_data)\n",
     "games_data <- clean_names(games_data)\n",
     "games_data$game_date <- as.Date(games_data$game_date, \"%m/%d/%Y\")\n",
-    "View(games_data)"
+    "head(games_data)"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "69de7699",
+   "id": "615448ef",
    "metadata": {
     "papermill": {
-     "duration": 0.010049,
-     "end_time": "2022-12-27T18:26:24.232564",
+     "duration": 0.009521,
+     "end_time": "2022-12-27T22:32:20.783889",
      "exception": false,
-     "start_time": "2022-12-27T18:26:24.222515",
+     "start_time": "2022-12-27T22:32:20.774368",
      "status": "completed"
     },
     "tags": []
@@ -593,19 +320,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "64bc90a9",
+   "id": "6228b99c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:24.255530Z",
-     "iopub.status.busy": "2022-12-27T18:26:24.253951Z",
-     "iopub.status.idle": "2022-12-27T18:26:24.331231Z",
-     "shell.execute_reply": "2022-12-27T18:26:24.329391Z"
+     "iopub.execute_input": "2022-12-27T22:32:20.805683Z",
+     "iopub.status.busy": "2022-12-27T22:32:20.803881Z",
+     "iopub.status.idle": "2022-12-27T22:32:20.898458Z",
+     "shell.execute_reply": "2022-12-27T22:32:20.895364Z"
     },
     "papermill": {
-     "duration": 0.091528,
-     "end_time": "2022-12-27T18:26:24.333892",
+     "duration": 0.109669,
+     "end_time": "2022-12-27T22:32:20.902733",
      "exception": false,
-     "start_time": "2022-12-27T18:26:24.242364",
+     "start_time": "2022-12-27T22:32:20.793064",
      "status": "completed"
     },
     "tags": []
@@ -746,13 +473,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6322eccf",
+   "id": "463c54fc",
    "metadata": {
     "papermill": {
-     "duration": 0.00976,
-     "end_time": "2022-12-27T18:26:24.353666",
+     "duration": 0.012706,
+     "end_time": "2022-12-27T22:32:20.930262",
      "exception": false,
-     "start_time": "2022-12-27T18:26:24.343906",
+     "start_time": "2022-12-27T22:32:20.917556",
      "status": "completed"
     },
     "tags": []
@@ -768,19 +495,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "4acd0553",
+   "id": "38224221",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:24.377629Z",
-     "iopub.status.busy": "2022-12-27T18:26:24.376090Z",
-     "iopub.status.idle": "2022-12-27T18:26:39.667030Z",
-     "shell.execute_reply": "2022-12-27T18:26:39.665107Z"
+     "iopub.execute_input": "2022-12-27T22:32:20.958580Z",
+     "iopub.status.busy": "2022-12-27T22:32:20.956095Z",
+     "iopub.status.idle": "2022-12-27T22:32:35.491512Z",
+     "shell.execute_reply": "2022-12-27T22:32:35.489485Z"
     },
     "papermill": {
-     "duration": 15.306133,
-     "end_time": "2022-12-27T18:26:39.670606",
+     "duration": 14.553139,
+     "end_time": "2022-12-27T22:32:35.495330",
      "exception": false,
-     "start_time": "2022-12-27T18:26:24.364473",
+     "start_time": "2022-12-27T22:32:20.942191",
      "status": "completed"
     },
     "tags": []
@@ -804,19 +531,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "72db4398",
+   "id": "d2dfc9c0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:39.695671Z",
-     "iopub.status.busy": "2022-12-27T18:26:39.693902Z",
-     "iopub.status.idle": "2022-12-27T18:26:39.826160Z",
-     "shell.execute_reply": "2022-12-27T18:26:39.824149Z"
+     "iopub.execute_input": "2022-12-27T22:32:35.518935Z",
+     "iopub.status.busy": "2022-12-27T22:32:35.517249Z",
+     "iopub.status.idle": "2022-12-27T22:32:35.603463Z",
+     "shell.execute_reply": "2022-12-27T22:32:35.601624Z"
     },
     "papermill": {
-     "duration": 0.147878,
-     "end_time": "2022-12-27T18:26:39.829499",
+     "duration": 0.101335,
+     "end_time": "2022-12-27T22:32:35.606794",
      "exception": false,
-     "start_time": "2022-12-27T18:26:39.681621",
+     "start_time": "2022-12-27T22:32:35.505459",
      "status": "completed"
     },
     "tags": []
@@ -833,13 +560,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "38d5b1d8",
+   "id": "a6268cd7",
    "metadata": {
     "papermill": {
-     "duration": 0.009492,
-     "end_time": "2022-12-27T18:26:39.848542",
+     "duration": 0.009534,
+     "end_time": "2022-12-27T22:32:35.625364",
      "exception": false,
-     "start_time": "2022-12-27T18:26:39.839050",
+     "start_time": "2022-12-27T22:32:35.615830",
      "status": "completed"
     },
     "tags": []
@@ -851,19 +578,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "f5734224",
+   "id": "f557b588",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:39.881211Z",
-     "iopub.status.busy": "2022-12-27T18:26:39.879552Z",
-     "iopub.status.idle": "2022-12-27T18:26:39.895754Z",
-     "shell.execute_reply": "2022-12-27T18:26:39.893919Z"
+     "iopub.execute_input": "2022-12-27T22:32:35.652877Z",
+     "iopub.status.busy": "2022-12-27T22:32:35.651258Z",
+     "iopub.status.idle": "2022-12-27T22:32:35.669955Z",
+     "shell.execute_reply": "2022-12-27T22:32:35.668082Z"
     },
     "papermill": {
-     "duration": 0.040262,
-     "end_time": "2022-12-27T18:26:39.898335",
+     "duration": 0.040195,
+     "end_time": "2022-12-27T22:32:35.674729",
      "exception": false,
-     "start_time": "2022-12-27T18:26:39.858073",
+     "start_time": "2022-12-27T22:32:35.634534",
      "status": "completed"
     },
     "tags": []
@@ -875,13 +602,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "9c3d4f74",
+   "id": "4cdfdf78",
    "metadata": {
     "papermill": {
-     "duration": 0.009767,
-     "end_time": "2022-12-27T18:26:39.917888",
+     "duration": 0.009134,
+     "end_time": "2022-12-27T22:32:35.693153",
      "exception": false,
-     "start_time": "2022-12-27T18:26:39.908121",
+     "start_time": "2022-12-27T22:32:35.684019",
      "status": "completed"
     },
     "tags": []
@@ -893,19 +620,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "4e3aa24b",
+   "id": "f48e67c1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:39.940782Z",
-     "iopub.status.busy": "2022-12-27T18:26:39.939266Z",
-     "iopub.status.idle": "2022-12-27T18:26:39.980733Z",
-     "shell.execute_reply": "2022-12-27T18:26:39.978660Z"
+     "iopub.execute_input": "2022-12-27T22:32:35.716316Z",
+     "iopub.status.busy": "2022-12-27T22:32:35.714742Z",
+     "iopub.status.idle": "2022-12-27T22:32:35.793302Z",
+     "shell.execute_reply": "2022-12-27T22:32:35.790790Z"
     },
     "papermill": {
-     "duration": 0.05676,
-     "end_time": "2022-12-27T18:26:39.984205",
+     "duration": 0.093534,
+     "end_time": "2022-12-27T22:32:35.796609",
      "exception": false,
-     "start_time": "2022-12-27T18:26:39.927445",
+     "start_time": "2022-12-27T22:32:35.703075",
      "status": "completed"
     },
     "tags": []
@@ -986,13 +713,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d0e88c89",
+   "id": "097bef32",
    "metadata": {
     "papermill": {
-     "duration": 0.01082,
-     "end_time": "2022-12-27T18:26:40.005702",
+     "duration": 0.009979,
+     "end_time": "2022-12-27T22:32:35.817059",
      "exception": false,
-     "start_time": "2022-12-27T18:26:39.994882",
+     "start_time": "2022-12-27T22:32:35.807080",
      "status": "completed"
     },
     "tags": []
@@ -1004,19 +731,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "98bcea25",
+   "id": "7eefa3ca",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:40.031563Z",
-     "iopub.status.busy": "2022-12-27T18:26:40.029907Z",
-     "iopub.status.idle": "2022-12-27T18:26:40.063917Z",
-     "shell.execute_reply": "2022-12-27T18:26:40.062139Z"
+     "iopub.execute_input": "2022-12-27T22:32:35.842235Z",
+     "iopub.status.busy": "2022-12-27T22:32:35.840560Z",
+     "iopub.status.idle": "2022-12-27T22:32:35.878632Z",
+     "shell.execute_reply": "2022-12-27T22:32:35.876819Z"
     },
     "papermill": {
-     "duration": 0.049745,
-     "end_time": "2022-12-27T18:26:40.066489",
+     "duration": 0.055213,
+     "end_time": "2022-12-27T22:32:35.882494",
      "exception": false,
-     "start_time": "2022-12-27T18:26:40.016744",
+     "start_time": "2022-12-27T22:32:35.827281",
      "status": "completed"
     },
     "tags": []
@@ -1033,19 +760,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "14ede1e1",
+   "id": "431201f6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:40.090518Z",
-     "iopub.status.busy": "2022-12-27T18:26:40.088827Z",
-     "iopub.status.idle": "2022-12-27T18:26:40.714488Z",
-     "shell.execute_reply": "2022-12-27T18:26:40.712466Z"
+     "iopub.execute_input": "2022-12-27T22:32:35.906373Z",
+     "iopub.status.busy": "2022-12-27T22:32:35.904787Z",
+     "iopub.status.idle": "2022-12-27T22:32:36.590468Z",
+     "shell.execute_reply": "2022-12-27T22:32:36.588186Z"
     },
     "papermill": {
-     "duration": 0.640731,
-     "end_time": "2022-12-27T18:26:40.717107",
+     "duration": 0.700098,
+     "end_time": "2022-12-27T22:32:36.593103",
      "exception": false,
-     "start_time": "2022-12-27T18:26:40.076376",
+     "start_time": "2022-12-27T22:32:35.893005",
      "status": "completed"
     },
     "tags": []
@@ -1072,13 +799,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e108e6a2",
+   "id": "377912a6",
    "metadata": {
     "papermill": {
-     "duration": 0.011628,
-     "end_time": "2022-12-27T18:26:40.739451",
+     "duration": 0.011416,
+     "end_time": "2022-12-27T22:32:36.619635",
      "exception": false,
-     "start_time": "2022-12-27T18:26:40.727823",
+     "start_time": "2022-12-27T22:32:36.608219",
      "status": "completed"
     },
     "tags": []
@@ -1090,19 +817,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "9f5f3953",
+   "id": "d29adb08",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:40.766893Z",
-     "iopub.status.busy": "2022-12-27T18:26:40.765230Z",
-     "iopub.status.idle": "2022-12-27T18:26:40.809652Z",
-     "shell.execute_reply": "2022-12-27T18:26:40.807663Z"
+     "iopub.execute_input": "2022-12-27T22:32:36.644338Z",
+     "iopub.status.busy": "2022-12-27T22:32:36.642517Z",
+     "iopub.status.idle": "2022-12-27T22:32:36.691971Z",
+     "shell.execute_reply": "2022-12-27T22:32:36.689438Z"
     },
     "papermill": {
-     "duration": 0.061471,
-     "end_time": "2022-12-27T18:26:40.812861",
+     "duration": 0.065654,
+     "end_time": "2022-12-27T22:32:36.695339",
      "exception": false,
-     "start_time": "2022-12-27T18:26:40.751390",
+     "start_time": "2022-12-27T22:32:36.629685",
      "status": "completed"
     },
     "tags": []
@@ -1114,13 +841,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6873c1c4",
+   "id": "531f5b00",
    "metadata": {
     "papermill": {
-     "duration": 0.013256,
-     "end_time": "2022-12-27T18:26:40.836596",
+     "duration": 0.009987,
+     "end_time": "2022-12-27T22:32:36.715822",
      "exception": false,
-     "start_time": "2022-12-27T18:26:40.823340",
+     "start_time": "2022-12-27T22:32:36.705835",
      "status": "completed"
     },
     "tags": []
@@ -1132,19 +859,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "6b84d440",
+   "id": "925fa6ca",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:40.861289Z",
-     "iopub.status.busy": "2022-12-27T18:26:40.859672Z",
-     "iopub.status.idle": "2022-12-27T18:26:40.895807Z",
-     "shell.execute_reply": "2022-12-27T18:26:40.893806Z"
+     "iopub.execute_input": "2022-12-27T22:32:36.740579Z",
+     "iopub.status.busy": "2022-12-27T22:32:36.738774Z",
+     "iopub.status.idle": "2022-12-27T22:32:36.777894Z",
+     "shell.execute_reply": "2022-12-27T22:32:36.775775Z"
     },
     "papermill": {
-     "duration": 0.05092,
-     "end_time": "2022-12-27T18:26:40.898318",
+     "duration": 0.055151,
+     "end_time": "2022-12-27T22:32:36.781123",
      "exception": false,
-     "start_time": "2022-12-27T18:26:40.847398",
+     "start_time": "2022-12-27T22:32:36.725972",
      "status": "completed"
     },
     "tags": []
@@ -1159,19 +886,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "59a694f0",
+   "id": "bb1ddc1a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:40.923868Z",
-     "iopub.status.busy": "2022-12-27T18:26:40.921860Z",
-     "iopub.status.idle": "2022-12-27T18:26:40.949180Z",
-     "shell.execute_reply": "2022-12-27T18:26:40.947409Z"
+     "iopub.execute_input": "2022-12-27T22:32:36.804864Z",
+     "iopub.status.busy": "2022-12-27T22:32:36.803137Z",
+     "iopub.status.idle": "2022-12-27T22:32:36.830647Z",
+     "shell.execute_reply": "2022-12-27T22:32:36.828379Z"
     },
     "papermill": {
-     "duration": 0.042839,
-     "end_time": "2022-12-27T18:26:40.951737",
+     "duration": 0.042447,
+     "end_time": "2022-12-27T22:32:36.833643",
      "exception": false,
-     "start_time": "2022-12-27T18:26:40.908898",
+     "start_time": "2022-12-27T22:32:36.791196",
      "status": "completed"
     },
     "tags": []
@@ -1244,13 +971,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "cd94046c",
+   "id": "24609d3b",
    "metadata": {
     "papermill": {
-     "duration": 0.011205,
-     "end_time": "2022-12-27T18:26:40.973843",
+     "duration": 0.011197,
+     "end_time": "2022-12-27T22:32:36.855344",
      "exception": false,
-     "start_time": "2022-12-27T18:26:40.962638",
+     "start_time": "2022-12-27T22:32:36.844147",
      "status": "completed"
     },
     "tags": []
@@ -1262,19 +989,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "9dd23a28",
+   "id": "c9f8d8fb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:40.999155Z",
-     "iopub.status.busy": "2022-12-27T18:26:40.997721Z",
-     "iopub.status.idle": "2022-12-27T18:26:41.076451Z",
-     "shell.execute_reply": "2022-12-27T18:26:41.074785Z"
+     "iopub.execute_input": "2022-12-27T22:32:36.880121Z",
+     "iopub.status.busy": "2022-12-27T22:32:36.878512Z",
+     "iopub.status.idle": "2022-12-27T22:32:36.923448Z",
+     "shell.execute_reply": "2022-12-27T22:32:36.921111Z"
     },
     "papermill": {
-     "duration": 0.094084,
-     "end_time": "2022-12-27T18:26:41.079032",
+     "duration": 0.06066,
+     "end_time": "2022-12-27T22:32:36.926489",
      "exception": false,
-     "start_time": "2022-12-27T18:26:40.984948",
+     "start_time": "2022-12-27T22:32:36.865829",
      "status": "completed"
     },
     "tags": []
@@ -1348,13 +1075,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7afca6d8",
+   "id": "35fc5c15",
    "metadata": {
     "papermill": {
-     "duration": 0.011831,
-     "end_time": "2022-12-27T18:26:41.101969",
+     "duration": 0.011647,
+     "end_time": "2022-12-27T22:32:36.948750",
      "exception": false,
-     "start_time": "2022-12-27T18:26:41.090138",
+     "start_time": "2022-12-27T22:32:36.937103",
      "status": "completed"
     },
     "tags": []
@@ -1366,19 +1093,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "01b92c58",
+   "id": "2bdb36bf",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:41.128297Z",
-     "iopub.status.busy": "2022-12-27T18:26:41.126719Z",
-     "iopub.status.idle": "2022-12-27T18:26:41.143626Z",
-     "shell.execute_reply": "2022-12-27T18:26:41.141873Z"
+     "iopub.execute_input": "2022-12-27T22:32:36.974471Z",
+     "iopub.status.busy": "2022-12-27T22:32:36.972835Z",
+     "iopub.status.idle": "2022-12-27T22:32:36.990915Z",
+     "shell.execute_reply": "2022-12-27T22:32:36.989022Z"
     },
     "papermill": {
-     "duration": 0.032691,
-     "end_time": "2022-12-27T18:26:41.146165",
+     "duration": 0.033653,
+     "end_time": "2022-12-27T22:32:36.993795",
      "exception": false,
-     "start_time": "2022-12-27T18:26:41.113474",
+     "start_time": "2022-12-27T22:32:36.960142",
      "status": "completed"
     },
     "tags": []
@@ -1390,13 +1117,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b66bb485",
+   "id": "c954b819",
    "metadata": {
     "papermill": {
-     "duration": 0.011042,
-     "end_time": "2022-12-27T18:26:41.168766",
+     "duration": 0.010409,
+     "end_time": "2022-12-27T22:32:37.015351",
      "exception": false,
-     "start_time": "2022-12-27T18:26:41.157724",
+     "start_time": "2022-12-27T22:32:37.004942",
      "status": "completed"
     },
     "tags": []
@@ -1408,19 +1135,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "4680aaff",
+   "id": "1443c7d8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:41.194921Z",
-     "iopub.status.busy": "2022-12-27T18:26:41.193108Z",
-     "iopub.status.idle": "2022-12-27T18:26:56.099127Z",
-     "shell.execute_reply": "2022-12-27T18:26:56.097171Z"
+     "iopub.execute_input": "2022-12-27T22:32:37.039738Z",
+     "iopub.status.busy": "2022-12-27T22:32:37.038062Z",
+     "iopub.status.idle": "2022-12-27T22:32:51.797848Z",
+     "shell.execute_reply": "2022-12-27T22:32:51.795048Z"
     },
     "papermill": {
-     "duration": 14.922756,
-     "end_time": "2022-12-27T18:26:56.102401",
+     "duration": 14.775519,
+     "end_time": "2022-12-27T22:32:51.801335",
      "exception": false,
-     "start_time": "2022-12-27T18:26:41.179645",
+     "start_time": "2022-12-27T22:32:37.025816",
      "status": "completed"
     },
     "tags": []
@@ -1443,19 +1170,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "3cb5433c",
+   "id": "0a38d4eb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:26:56.130107Z",
-     "iopub.status.busy": "2022-12-27T18:26:56.128503Z",
-     "iopub.status.idle": "2022-12-27T18:28:13.842721Z",
-     "shell.execute_reply": "2022-12-27T18:28:13.839926Z"
+     "iopub.execute_input": "2022-12-27T22:32:51.826691Z",
+     "iopub.status.busy": "2022-12-27T22:32:51.825052Z",
+     "iopub.status.idle": "2022-12-27T22:34:09.289543Z",
+     "shell.execute_reply": "2022-12-27T22:34:09.286781Z"
     },
     "papermill": {
-     "duration": 77.731441,
-     "end_time": "2022-12-27T18:28:13.846209",
+     "duration": 77.481,
+     "end_time": "2022-12-27T22:34:09.293247",
      "exception": false,
-     "start_time": "2022-12-27T18:26:56.114768",
+     "start_time": "2022-12-27T22:32:51.812247",
      "status": "completed"
     },
     "tags": []
@@ -1478,19 +1205,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "6d35aa31",
+   "id": "916f6505",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:28:13.874493Z",
-     "iopub.status.busy": "2022-12-27T18:28:13.872621Z",
-     "iopub.status.idle": "2022-12-27T18:28:13.940580Z",
-     "shell.execute_reply": "2022-12-27T18:28:13.938789Z"
+     "iopub.execute_input": "2022-12-27T22:34:09.322188Z",
+     "iopub.status.busy": "2022-12-27T22:34:09.320568Z",
+     "iopub.status.idle": "2022-12-27T22:34:09.393238Z",
+     "shell.execute_reply": "2022-12-27T22:34:09.391320Z"
     },
     "papermill": {
-     "duration": 0.083934,
-     "end_time": "2022-12-27T18:28:13.943109",
+     "duration": 0.088754,
+     "end_time": "2022-12-27T22:34:09.396718",
      "exception": false,
-     "start_time": "2022-12-27T18:28:13.859175",
+     "start_time": "2022-12-27T22:34:09.307964",
      "status": "completed"
     },
     "tags": []
@@ -1503,19 +1230,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "62b70764",
+   "id": "106a0022",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:28:13.968837Z",
-     "iopub.status.busy": "2022-12-27T18:28:13.967182Z",
-     "iopub.status.idle": "2022-12-27T18:28:13.992745Z",
-     "shell.execute_reply": "2022-12-27T18:28:13.990854Z"
+     "iopub.execute_input": "2022-12-27T22:34:09.421691Z",
+     "iopub.status.busy": "2022-12-27T22:34:09.420052Z",
+     "iopub.status.idle": "2022-12-27T22:34:09.445137Z",
+     "shell.execute_reply": "2022-12-27T22:34:09.443371Z"
     },
     "papermill": {
-     "duration": 0.041265,
-     "end_time": "2022-12-27T18:28:13.995410",
+     "duration": 0.041135,
+     "end_time": "2022-12-27T22:34:09.448298",
      "exception": false,
-     "start_time": "2022-12-27T18:28:13.954145",
+     "start_time": "2022-12-27T22:34:09.407163",
      "status": "completed"
     },
     "tags": []
@@ -1528,19 +1255,19 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "34311511",
+   "id": "5ec2f5b1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:28:14.021335Z",
-     "iopub.status.busy": "2022-12-27T18:28:14.019682Z",
-     "iopub.status.idle": "2022-12-27T18:28:40.195030Z",
-     "shell.execute_reply": "2022-12-27T18:28:40.192727Z"
+     "iopub.execute_input": "2022-12-27T22:34:09.472543Z",
+     "iopub.status.busy": "2022-12-27T22:34:09.471000Z",
+     "iopub.status.idle": "2022-12-27T22:34:35.956062Z",
+     "shell.execute_reply": "2022-12-27T22:34:35.951546Z"
     },
     "papermill": {
-     "duration": 26.192041,
-     "end_time": "2022-12-27T18:28:40.198446",
+     "duration": 26.500861,
+     "end_time": "2022-12-27T22:34:35.959470",
      "exception": false,
-     "start_time": "2022-12-27T18:28:14.006405",
+     "start_time": "2022-12-27T22:34:09.458609",
      "status": "completed"
     },
     "tags": []
@@ -1566,13 +1293,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "198a78a0",
+   "id": "a3fd50e1",
    "metadata": {
     "papermill": {
-     "duration": 0.014527,
-     "end_time": "2022-12-27T18:28:40.227425",
+     "duration": 0.015081,
+     "end_time": "2022-12-27T22:34:35.989468",
      "exception": false,
-     "start_time": "2022-12-27T18:28:40.212898",
+     "start_time": "2022-12-27T22:34:35.974387",
      "status": "completed"
     },
     "tags": []
@@ -1584,19 +1311,19 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "2529ca22",
+   "id": "eb1a9276",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:28:40.260522Z",
-     "iopub.status.busy": "2022-12-27T18:28:40.258353Z",
-     "iopub.status.idle": "2022-12-27T18:28:40.292645Z",
-     "shell.execute_reply": "2022-12-27T18:28:40.290696Z"
+     "iopub.execute_input": "2022-12-27T22:34:36.051595Z",
+     "iopub.status.busy": "2022-12-27T22:34:36.019399Z",
+     "iopub.status.idle": "2022-12-27T22:34:36.087031Z",
+     "shell.execute_reply": "2022-12-27T22:34:36.084587Z"
     },
     "papermill": {
-     "duration": 0.052423,
-     "end_time": "2022-12-27T18:28:40.295348",
+     "duration": 0.086269,
+     "end_time": "2022-12-27T22:34:36.090273",
      "exception": false,
-     "start_time": "2022-12-27T18:28:40.242925",
+     "start_time": "2022-12-27T22:34:36.004004",
      "status": "completed"
     },
     "tags": []
@@ -1608,13 +1335,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "9a81bc6f",
+   "id": "f5a364ab",
    "metadata": {
     "papermill": {
-     "duration": 0.012433,
-     "end_time": "2022-12-27T18:28:40.321868",
+     "duration": 0.01165,
+     "end_time": "2022-12-27T22:34:36.114908",
      "exception": false,
-     "start_time": "2022-12-27T18:28:40.309435",
+     "start_time": "2022-12-27T22:34:36.103258",
      "status": "completed"
     },
     "tags": []
@@ -1628,19 +1355,19 @@
   {
    "cell_type": "code",
    "execution_count": 22,
-   "id": "091b3b61",
+   "id": "38ffd192",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:28:40.355060Z",
-     "iopub.status.busy": "2022-12-27T18:28:40.353421Z",
-     "iopub.status.idle": "2022-12-27T18:28:40.381220Z",
-     "shell.execute_reply": "2022-12-27T18:28:40.379123Z"
+     "iopub.execute_input": "2022-12-27T22:34:36.145329Z",
+     "iopub.status.busy": "2022-12-27T22:34:36.143062Z",
+     "iopub.status.idle": "2022-12-27T22:34:36.174726Z",
+     "shell.execute_reply": "2022-12-27T22:34:36.172801Z"
     },
     "papermill": {
-     "duration": 0.045769,
-     "end_time": "2022-12-27T18:28:40.384450",
+     "duration": 0.048898,
+     "end_time": "2022-12-27T22:34:36.178061",
      "exception": false,
-     "start_time": "2022-12-27T18:28:40.338681",
+     "start_time": "2022-12-27T22:34:36.129163",
      "status": "completed"
     },
     "tags": []
@@ -1654,19 +1381,19 @@
   {
    "cell_type": "code",
    "execution_count": 23,
-   "id": "93ee9acc",
+   "id": "002c8b6c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:28:40.416480Z",
-     "iopub.status.busy": "2022-12-27T18:28:40.414783Z",
-     "iopub.status.idle": "2022-12-27T18:28:40.451047Z",
-     "shell.execute_reply": "2022-12-27T18:28:40.448420Z"
+     "iopub.execute_input": "2022-12-27T22:34:36.206360Z",
+     "iopub.status.busy": "2022-12-27T22:34:36.204162Z",
+     "iopub.status.idle": "2022-12-27T22:34:36.241791Z",
+     "shell.execute_reply": "2022-12-27T22:34:36.238743Z"
     },
     "papermill": {
-     "duration": 0.05405,
-     "end_time": "2022-12-27T18:28:40.454206",
+     "duration": 0.055346,
+     "end_time": "2022-12-27T22:34:36.244389",
      "exception": false,
-     "start_time": "2022-12-27T18:28:40.400156",
+     "start_time": "2022-12-27T22:34:36.189043",
      "status": "completed"
     },
     "tags": []
@@ -1760,13 +1487,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "25de40e7",
+   "id": "0adc8ca3",
    "metadata": {
     "papermill": {
-     "duration": 0.011624,
-     "end_time": "2022-12-27T18:28:40.478806",
+     "duration": 0.013119,
+     "end_time": "2022-12-27T22:34:36.268888",
      "exception": false,
-     "start_time": "2022-12-27T18:28:40.467182",
+     "start_time": "2022-12-27T22:34:36.255769",
      "status": "completed"
     },
     "tags": []
@@ -1778,19 +1505,19 @@
   {
    "cell_type": "code",
    "execution_count": 24,
-   "id": "a644fc7d",
+   "id": "2e4fdfdc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:28:40.510952Z",
-     "iopub.status.busy": "2022-12-27T18:28:40.508931Z",
-     "iopub.status.idle": "2022-12-27T18:28:40.780784Z",
-     "shell.execute_reply": "2022-12-27T18:28:40.779068Z"
+     "iopub.execute_input": "2022-12-27T22:34:36.296978Z",
+     "iopub.status.busy": "2022-12-27T22:34:36.295118Z",
+     "iopub.status.idle": "2022-12-27T22:34:36.575108Z",
+     "shell.execute_reply": "2022-12-27T22:34:36.572764Z"
     },
     "papermill": {
-     "duration": 0.292238,
-     "end_time": "2022-12-27T18:28:40.783213",
+     "duration": 0.296198,
+     "end_time": "2022-12-27T22:34:36.578312",
      "exception": false,
-     "start_time": "2022-12-27T18:28:40.490975",
+     "start_time": "2022-12-27T22:34:36.282114",
      "status": "completed"
     },
     "tags": []
@@ -1868,13 +1595,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8b7bf94a",
+   "id": "2f1d7a71",
    "metadata": {
     "papermill": {
-     "duration": 0.01188,
-     "end_time": "2022-12-27T18:28:40.806615",
+     "duration": 0.011451,
+     "end_time": "2022-12-27T22:34:36.601454",
      "exception": false,
-     "start_time": "2022-12-27T18:28:40.794735",
+     "start_time": "2022-12-27T22:34:36.590003",
      "status": "completed"
     },
     "tags": []
@@ -1886,19 +1613,19 @@
   {
    "cell_type": "code",
    "execution_count": 25,
-   "id": "1a6915ae",
+   "id": "3647b5e5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:28:40.833929Z",
-     "iopub.status.busy": "2022-12-27T18:28:40.832305Z",
-     "iopub.status.idle": "2022-12-27T18:28:40.855458Z",
-     "shell.execute_reply": "2022-12-27T18:28:40.853671Z"
+     "iopub.execute_input": "2022-12-27T22:34:36.628668Z",
+     "iopub.status.busy": "2022-12-27T22:34:36.626590Z",
+     "iopub.status.idle": "2022-12-27T22:34:36.653008Z",
+     "shell.execute_reply": "2022-12-27T22:34:36.651164Z"
     },
     "papermill": {
-     "duration": 0.040857,
-     "end_time": "2022-12-27T18:28:40.859041",
+     "duration": 0.042415,
+     "end_time": "2022-12-27T22:34:36.655647",
      "exception": false,
-     "start_time": "2022-12-27T18:28:40.818184",
+     "start_time": "2022-12-27T22:34:36.613232",
      "status": "completed"
     },
     "tags": []
@@ -1911,19 +1638,19 @@
   {
    "cell_type": "code",
    "execution_count": 26,
-   "id": "4f6ca6cb",
+   "id": "99dcde3f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-12-27T18:28:40.887313Z",
-     "iopub.status.busy": "2022-12-27T18:28:40.885655Z",
-     "iopub.status.idle": "2022-12-27T18:28:54.714380Z",
-     "shell.execute_reply": "2022-12-27T18:28:54.712301Z"
+     "iopub.execute_input": "2022-12-27T22:34:36.682034Z",
+     "iopub.status.busy": "2022-12-27T22:34:36.680368Z",
+     "iopub.status.idle": "2022-12-27T22:34:50.691336Z",
+     "shell.execute_reply": "2022-12-27T22:34:50.689374Z"
     },
     "papermill": {
-     "duration": 13.84727,
-     "end_time": "2022-12-27T18:28:54.717948",
+     "duration": 14.028542,
+     "end_time": "2022-12-27T22:34:50.695631",
      "exception": false,
-     "start_time": "2022-12-27T18:28:40.870678",
+     "start_time": "2022-12-27T22:34:36.667089",
      "status": "completed"
     },
     "tags": []
@@ -1955,14 +1682,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 226.036043,
-   "end_time": "2022-12-27T18:28:54.954711",
+   "duration": 226.722951,
+   "end_time": "2022-12-27T22:34:50.932143",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-12-27T18:25:08.918668",
+   "start_time": "2022-12-27T22:31:04.209192",
    "version": "2.4.0"
   }
  },
